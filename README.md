@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaibhaviKeerthi
-- 👀 I’m interested in Full Stack Web development
+- 👀 I’m interested in Full Stack Web development and AI model development
 - 🌱 I’m currently learning Btech in AI&DS
 - 💞️ I’m looking to collaborate on ...
 
